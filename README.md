@@ -1,4 +1,4 @@
-![Group 2](https://user-images.githubusercontent.com/53722984/228359766-6595c300-f52c-4144-861c-4cb840be09cc.png)
+
 
 # Music Box 
 ![Badge](https://img.shields.io/badge/Code-react-0366d6?&logo=react) 
